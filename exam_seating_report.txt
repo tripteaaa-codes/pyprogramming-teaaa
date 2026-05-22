@@ -1,0 +1,5 @@
+Exam Hall Seating Report
+Tripti -> Seat 3
+Shreyas -> Seat 2
+Anushka -> Seat 4
+Simran -> Seat 1

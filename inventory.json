@@ -1,0 +1,12 @@
+{
+    "2": {
+        "name": "2",
+        "quantity": 3,
+        "price": 40.0
+    },
+    "p101": {
+        "name": "soap",
+        "quantity": 30,
+        "price": 25.0
+    }
+}
