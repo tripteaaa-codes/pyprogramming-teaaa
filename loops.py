@@ -4,6 +4,10 @@ while ( i<=5 ):
     print(i)
     i += 1
 print("end of while loop")
+<<<<<<< HEAD
+=======
+
+>>>>>>> 42779739a735cc07e6570d364336bcf5b3f2bd29
 #example: prime number between 1 to 100 
 i = 1
 while (i<=100):
